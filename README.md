@@ -1,6 +1,6 @@
 # valetest
-come funziona git
 
-[gnegne](gnegne)
+come
 
 
+[File GneGne](gnegne)
